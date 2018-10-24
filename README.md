@@ -20,10 +20,10 @@ Shavers, Charlie | All Of Me | [kern](https://raw.githubusercontent.com/hleveill
 [1](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing001.krn)  
 [2](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing002.krn)  
 [3](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing001.krn)  
-[4](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing004.krn)
+[4](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing004.krn)  
 [5](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing005.krn)  
 [6](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing006.krn)  
-7
-8
-9
-10
+[7](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing007.krn)  
+[8](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing008.krn)  
+[9](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing009.krn)  
+[10](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing010.krn)  
