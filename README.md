@@ -17,12 +17,12 @@ Shavers, Charlie | All Of Me | [kern](https://raw.githubusercontent.com/hleveill
 
 ## Arban's Art of Phrasing: 150 Classic and Popular Melodies (arranged for Bb trumpet)
 
-1
-2
-3
-4
-5
-6
+[1](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing001.krn)  
+[2](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing002.krn)  
+[3](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing001.krn)  
+[4](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing004.krn)
+[5](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing005.krn)  
+[6](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/artofphrasing/artofphrasing006.krn)  
 7
 8
 9
