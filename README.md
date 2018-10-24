@@ -16,3 +16,14 @@ Panely, Charles | I Fall in Love Too Easily | [kern](https://github.com/hleveill
 Shavers, Charlie | All Of Me | [kern](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/JazzTrumpet/kern/Shavers_Charlie-All_Of_Me.krn) | [sibelius](https://github.com/hleveillegauvin/KernScores/raw/master/JazzTrumpet/sibelius/Shavers_Charlie-All_Of_Me.sib) | [musicxml](https://raw.githubusercontent.com/hleveillegauvin/KernScores/master/JazzTrumpet/musicxml/Shavers_Charlie-All_Of_Me.xml) | [midi](https://github.com/hleveillegauvin/KernScores/raw/master/JazzTrumpet/midi/Shavers_Charlie-All_Of_Me.mid) | [pdf](https://github.com/hleveillegauvin/KernScores/raw/master/JazzTrumpet/pdf/Shavers_Charlie-All_Of_Me.pdf)
 
 ## Arban's Art of Phrasing: 150 Classic and Popular Melodies (arranged for Bb trumpet)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
